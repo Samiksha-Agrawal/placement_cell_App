@@ -15,8 +15,7 @@
 **Server:** `Node.js, Express.js, Mongoose, EJS,
 
 
-## 🔗 Links
-Github Link:- https://github.com/atulsanini7900/PlacementCellApp.git
+
 
 ## 🔗 Live Demo
 Render Link:- https://placement-cell-app-kxhc.onrender.com
