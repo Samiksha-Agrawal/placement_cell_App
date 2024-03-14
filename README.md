@@ -18,7 +18,8 @@
 
 
 ## 🔗 Live Demo
-Render Link:- https://placement-cell-app-kxhc.onrender.com
+Render Link:- https://placement-cell-app-7nbe.onrender.com
+
 
 ## Features
 
